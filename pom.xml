@@ -11,6 +11,7 @@
     <name>account-aggregator聚合模块</name>
 
     <modules>
+        <module>../account-parent</module>
         <module>../account-email</module>
         <module>../account-persist</module>
     </modules>
